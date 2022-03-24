@@ -1,5 +1,7 @@
+![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Jenish Kathrotiya</h1>
 <h3 align="center">A passionate Front-End developer from India</h3>
+<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently compelte **Myntra**
 
@@ -25,9 +27,12 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jkad02&count_private=true&show_icons=true&theme=radical
 )
 
+
+
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JKAD02&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3><img align="right" width="450" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 <p align="left">
 <a href="https://twitter.com/jkad28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkad28" height="30" width="40" /></a>                 
 <a href="https://www.linkedin.com/in/jenish-kathrotiya-036213231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenish-kathrotiya" height="30" width="40" /></a>
