@@ -50,3 +50,4 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<a href="https://app.daily.dev/JKAD28"><img src="https://api.daily.dev/devcards/0f3b8fc2ef824f06aea7c2b15056aa5d.png?r=qq9" width="400" alt="Jenish Kathrotiya's Dev Card"/></a>
