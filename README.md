@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jenishadoasis@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10XAC5lYDYWrA4ua1diXtWba0HtRgqYOz/view?usp=sharing](https://drive.google.com/file/d/10XAC5lYDYWrA4ua1diXtWba0HtRgqYOz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1R-YsQGr2Iyue7BifYaLTKPa2CfHoQmVs]
 
 <!-- - ⚡ Fun fact **I am very Friendly Person** -->
 
